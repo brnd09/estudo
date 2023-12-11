@@ -1,0 +1,92 @@
+Um técnico alterou recentemente os empregos de suporte a uma empresa de pequeno porte para uma grande empresa no grupo de segurança. Quais são os dois tipos de senhas que a empresa maior pode usar para proteger uma estação de trabalho? (Escolha duas.)
+
+Três tipos de proteção por senha que podem ser usadas para proteger uma estação de trabalho são a senha da BIOS configurada no programa de configuração da BIOS; uma senha de login como um PIN, um Windows ou uma senha de imagem; e uma senha de rede que é mantida em um servidor.
+The correct answers are: BIOS, Login
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Que tipo de ameaça de segurança usa mensagens de e-mail que parecem ser de um remetente legítimo e pedem ao destinatário para visitar um site e inserir informações confidenciais?
+
+Os ataques de phishing utilizam engenharia social para obter informações pessoais dos usuários. Os vírus transportam códigos executáveis maliciosos que rodam nas máquinas de destino. Worms se propagam através da rede, consumindo largura de banda. Adware, por outro lado, abre janelas de pop-up, direcionando os usuários para sites maliciosos.
+The correct answer is: phishing
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Como os dados estão sendo armazenados em um disco rígido local, qual método os protegeria contra o acesso não autorizado?
+
+A criptografia de dados é o processo de conversão de dados em um formato que apenas uma pessoa confiável, autorizada com uma senha ou chave secreta possa descriptografá-los e acessar o formato original.
+The correct answer is: criptografia de dados
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Um técnico em uma pequena empresa está configurando a política de segurança local para um computador. Qual definição de configuração o técnico usaria para exigir que o usuário altere a senha após 90 dias?
+
+A configuração duração máxima da senha define o número máximo de dias que podem passar antes que a senha seja alterada.
+The correct answer is: Tempo de vida máximo da senha
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quando um técnico de suporte está solucionando um problema de segurança em um sistema, que ação ele deve tomar antes de documentar os descobertas e finalizar o chamado?
+
+O último passo antes de documentando as descobertas e resultados é verificar a funcionalidade completa do sistema. Garantir que todos os aplicativos estejam funcionando é um exemplo de verificação de funcionalidade. Perguntar o problema que o usuário está vivenciando faz parte do primeiro passo: identificar o problema. Desconectar da rede e reiniciar no modo de segurança são exemplos da terceira etapa: determinar uma causa exata.
+The correct answer is: Certifique-se de que todas as aplicações estão funcionando.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Qual dos itens abaixo é um exemplo de engenharia social?
+
+Um engenheiro social tenta obter a confiança de um funcionário e convencer essa pessoa a divulgar informações confidenciais, como nomes de usuário e senhas. Os ataques DDoS, pop-ups e vírus são exemplos de ameaças à segurança baseadas em software, não em engenharia social.
+The correct answer is: uma pessoa não identificada que afirma ser um técnico que coleta informações de usuário dos funcionários
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Um técnico ingressou recentemente em uma empresa e durante a primeira semana no trabalho, descobre uma violação de segurança. Qual política o técnico deve implementar depois que a violação de segurança ocorreu?
+
+Uma política de segurança da empresa normalmente contém procedimentos de tratamento de incidentes usados quando ocorre uma violação de segurança.
+The correct answer is: política de tratamento de incidentes
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Que tipo de formato de disco rígido é normalmente executado na fábrica em que a unidade é montada?
+
+Os dois tipos de formatação que podem ser realizados em um disco rígido mecânico são de baixo nível e padrão. A formatação de baixo nível é executada normalmente na fábrica. O formato padrão apenas recriará o setor de inicialização e a tabela de alocação de arquivos.
+The correct answer is: low-level
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Um técnico descobre que um funcionário conectou um roteador sem fio não autorizado à rede da empresa, para poder obter cobertura Wi-Fi do lado de fora, enquanto faz uma pausa no trabalho. O técnico informa isso imediatamente a um supervisor. Quais são as duas medidas que a empresa deve tomar em resposta a essa situação? (Escolha duas.)
+
+Incluir um roteador se fio ou ponto de acesso não autorizado a uma rede da empresa é uma possível ameaça de segurança séria. O dispositivo deve ser removido da rede imediatamente, para minimizar as ameaças. Além disso, o funcionário deve ser punido. A política de segurança da empresa, com as quais os funcionários concordaram, deve descrever penalidades pelo comportamento que ameaça a segurança da empresa.
+The correct answers are: Remover imediatamente o dispositivo da rede., Consultar a política de segurança da empresa para decidir as medidas a tomar contra o funcionário.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quais ações podem ser usadas para determinar se um host foi comprometido e está inundando o tráfego para a rede?
+
+Se a rede está vivenciando um volume extremamente alto de tráfego, desconectar um host da rede pode confirmar que o host está comprometido e está inundando o tráfego na rede. As outras questões são questões de hardware e normalmente não estão relacionadas à segurança.
+The correct answer is: Desligue o hots da rede.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Um executivo corporativo solicitou que o departamento de ti fornecesse uma solução para garantir a segurança dos dados de unidades removíveis que estão sendo desativadas. Qual solução de segurança deve ser recomendada?
+
+O BitLocker To Go é compatível com a criptografia de unidades removíveis, mas não requer um chip TPM. No entanto, ela precisa de uma senha.
+The correct answer is: BitLocker To Go
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quais são as duas características do tráfego de rede que estão sendo monitoradas se um técnico de rede configurar o firewall da empresa para operar como um filtro de pacotes? (Escolha dois.)
+
+Os firewalls de hardware podem ser configurados como filtros de pacotes, firewalls de camada de aplicação ou proxies. Os firewalls da camada de aplicação lêem todos os dados de tráfego e procuram tráfego indesejado. Os proxies atuam como relés, varrem o tráfego e permitem ou negam o tráfego com base em regras estabelecidas. Os filtros de pacotes só se preocupam com dados de porta, dados de endereço IP e serviços de destino.
+The correct answers are: Portas, protocolos
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ao configurar a segurança do Windows, qual termo é usado para significar uma regra assocated com um objeto, como uma pasta ou impressora?
+
+Um direito autoriza um usuário a realizar uma ação em um computador, como executar backups. Uma permissão é uma regra associada a um objeto específico, como um arquivo, uma pasta ou uma impressora.
+The correct answer is: permission
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quando um usuário liga o PC na quarta-feira, o PC exibe uma mensagem indicando que todos os arquivos do usuário foram bloqueados. Para obter os arquivos não criptografados, o usuário deve enviar um e-mail e incluir uma ID específica no título do e-mail. A mensagem também inclui maneiras de comprar e enviar bitcoins como pagamento para a descriptografia do arquivo. Depois de inspecionar a mensagem, o técnico suspeita que ocorreu uma violação de segurança. Que tipo de malware poderia ser responsável?
+
+O ransomware requer pagamento para acesso ao computador ou aos arquivos. Bitcoin é um tipo de moeda digital que não passa por um banco específico.
+The correct answer is: ransomware
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Um funcionário corporativo fez recentemente o treinamento de conscientização de segurança obrigatório e está querendo usar o termo de segurança correto. Qual problema pode ocorrer ao navegar na Internet e, em geral, é iniciado pelo site de destino?
+
+A maioria dos navegadores da Web oferece um bloqueador de pop-ups. No Internet Explorer, use o Ferramentas ícone a ser ativado.
+The correct answer is: pop-up
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
